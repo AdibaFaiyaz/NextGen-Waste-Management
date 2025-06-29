@@ -6,7 +6,7 @@ import pyrebase
 # WARNING: In production, move these credentials to environment variables or config file
 # Do not commit API keys to version control
 config = {
-    "apiKey": "AIzaSyDt27zrAPbFweDWMUKTsfkT1j_oyxwCFPo",
+    "apiKey": "xxxxxxyourapikey",
     "authDomain": "smart-dustbin-539ee",
     "databaseURL": "https://smart-dustbin-539ee-default-rtdb.firebaseio.com",
     "storageBucket": "smart-dustbin-539ee.appspot.com"
